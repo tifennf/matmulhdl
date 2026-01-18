@@ -4,7 +4,7 @@ Ce dépot contient les sources d'une architecture de multiplication matricielle 
 C'est à dire permettant d'effectuer le produit matriciel $$Ax=b$$
 avec $A$ une matrice de taille $Ndata \cdot Mdata$.
 
-Une version en **Verilog** a été réalisé dans le cadre de l'UE VLSI du master SESI de Sorbonne Université.   
+Une version en **Verilog** a été réalisé dans le cadre de l'UE VLSI de mon Master (M1).   
 Elle se trouve dans les dossiers *matmulverilog* et *other_architecture*.  
 De plus, le compte rendu associé présentant une analyse comparative de plusieurs architectures est disponible dans le fichier *CR.pdf*
 
